@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "name": "Gigit all Jobs moving event",
+      "location": {
+        "latitude": 45.77997,
+        "longitude": 15.96937
+      },
+      "description": "On May 20th (10.00-14.30 CEST) you can join us online and follow a programme of interesting presentations, workshops, testimonials and talks by Digital sector, labour market and mobility experts, employers, decision makers and successful professionals.",
+      "start": "May 6, 2021"
+    },
+    {
+      "name": "Job and Career in Latvia",
+      "location": {
+        "latitude": 45.81017,
+        "longitude": 15.99323
+      },
+      "description": "Take part in our online event and explore Latvia! Latvia can offer you good opportunities for employment and career growth in different sectors.During the event, you'll have the chance to meet Latvian employers and discuss job opportunities, listen to presentations, and get advice from experts about living and working conditions in Latvia.",
+      "start": "September 16, 2021"
+    },
+    {
+      "name": "Make it in Germany",
+      "location": {
+        "latitude": 45.81017,
+        "longitude": 15.99323
+      },
+      "description": "Are you wondering what needs to be considered in relation to re-entry, job search, application, EU funding programs, family and social security in view of your return to Germany?You will receive comprehensive information on this.",
+      "start": "October 13, 2021"
+    },
+    {
+      "name": "Your Career  Think Denmark",
+      "location": {
+        "latitude": 45.80961,
+        "longitude": 15.99744
+      },
+      "description": "At this event you will get to know more about living and working in Denmark, and you will get an insight into the IT and engineering sector as well as the life science and health sector, where there are good career opportunities for highly skilled internationals.",
+      "start": "May 14, 2021"
+    },
+    {
+      "name": "Ready to go on 2021 EURES TMS Edition",
+      "location": {
+        "latitude": 45.80093,
+        "longitude": 15.91385
+      },
+      "description": "Welcome to Ready to go on 2021 - EURES Targeted Mobility Scheme Edition - Event of information and recruitment organised by the EURES Italy network.",
+      "start": "April 25, 2021"
+    },
+    {
+      "name": "European Info Day EURES Spain",
+      "location": {
+        "latitude": 45.80093,
+        "longitude": 15.91385
+      },
+      "description": "On the day, you can chat online (10.00-16:00 CEST) with employers and get one-to-one advice from EURES Advisers in several European countries, on your career move projects and related practicalities.During the Programme, you can also ask questions and add your input at the Q&A session after each presentation.",
+      "start": "June 5, 2021"
+    }
+  ]
+}
